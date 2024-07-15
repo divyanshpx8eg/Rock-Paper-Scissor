@@ -4,7 +4,7 @@ A simple web-based implementation of the classic Rock-Paper-Scissors game using 
 
 ## Demo
 
-![image](https://github.com/user-attachments/assets/036b2eb3-7d94-459f-b11f-9e6c2e9935bc)
+![image](https://github.com/user-attachments/assets/fd88b1f6-3e3d-4ef8-9cee-e4c14debdeff)
 
 
 ## Features
