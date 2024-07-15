@@ -16,7 +16,5 @@ A simple web-based implementation of the classic Rock-Paper-Scissors game using 
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-git clone https://github.com/divyanshpx8eg/Rock-Paper-Scissor.git
+1. Clone the repository: `git clone https://github.com/divyanshpx8eg/Rock-Paper-Scissor.git`
 
