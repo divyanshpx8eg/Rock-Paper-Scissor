@@ -1,0 +1,128 @@
+*{
+    margin : 0;
+    padding : 0;
+    border:0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(237, 237, 237);
+}
+
+header{
+    background-color: #000;
+    height: 50px;
+    color: rgb(237, 237, 237);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+footer{
+    background-color: #000;
+    height: 30px;
+    color: rgb(237, 237, 237);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.icons{
+    
+    display: flex;
+    margin: auto; 
+    margin-top: 50px;
+    width:50%;
+    height: 150px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+ img{
+    border-radius: 50%;
+    height: 120px;
+    width: auto;
+    border: 4px solid #000;
+}
+
+ img:hover{
+    border: 4px solid #f74b4b;
+}
+ img:active{
+    border: 4px solid #5faf94;
+}
+
+.score{
+    display: flex;
+    margin: auto; 
+    margin-top: 20px;
+    width:50%;
+    height: 150px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000;
+}
+.scorecard{
+    height: 120px;
+    width: 150px;
+    border: 4px solid rgb(237, 237, 237);
+    color: rgb(237, 237, 237);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.newgame{
+    display: flex;
+    margin: auto; 
+    margin-top: 20px;
+    width:140px;
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000;
+}
+.newgame h2{
+    padding: 2px;
+    border: 4px solid rgb(237, 237, 237);
+    color:rgb(237, 237, 237);
+}
+
+.newgame h2:hover{
+    border: 4px solid #f74b4b;
+}
+.newgame h2:active{
+    border: 4px solid #5faf94;
+}
+
+#choice{
+    background-color:rgb(237, 237, 237); 
+    color: #000;
+}
+#choice img{
+    height: 90px;
+    visibility: hidden;
+}
+
+.result{
+    
+    display: flex;
+    margin: auto; 
+    margin-top: 20px;
+    width:80px;
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #000;
+    visibility: hidden;
+    border: 4px solid #000;
+}
+.result h2{
+    padding: 2px;
+    
+    color:rgb(237, 237, 237);
+}
