@@ -6,7 +6,6 @@ A simple web-based implementation of the classic Rock-Paper-Scissors game using 
 
 ![image](https://github.com/user-attachments/assets/fd88b1f6-3e3d-4ef8-9cee-e4c14debdeff)
 
-
 ## Features
 
 - Allows the user to play Rock-Paper-Scissors against a bot.
@@ -18,3 +17,6 @@ A simple web-based implementation of the classic Rock-Paper-Scissors game using 
 
 1. Clone the repository: `git clone https://github.com/divyanshpx8eg/Rock-Paper-Scissor.git`
 
+## Deploy
+
+Play the game [here](https://deluxe-dragon-5e853d.netlify.app/)
